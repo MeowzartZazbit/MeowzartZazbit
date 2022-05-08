@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MeowzartZazbit
-- I'm a China student in coding.   :)
+- ###👋 Hi, I’m @MeowzartZazbit
+- I'm a Chinese student in coding & gaming.   : )
 - 👀 I’m interested in FNF mods.
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on FNF mods!
